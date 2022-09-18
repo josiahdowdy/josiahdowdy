@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @josiahdowdy
-- 👀 I’m interested in game dev with Godot. 
-- 🌱 I’m currently learning 3d modelling with Blender.
+- 👀 I make games in UE5 and build scenes with Blender.
+- 🌱 I make simple apps for productivity and artists with Tauri, Vite and Vue. 
 
 
 <!---
