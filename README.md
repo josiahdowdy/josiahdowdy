@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @josiahdowdy
-- 👀 I make games in UE5 and build scenes with Blender.
-- 🌱 I make simple apps for productivity and artists with Tauri, Vite and Vue. 
+- 👀 I enjoy coding apps & making games. 
+- 🌱 I make apps for productivity and artists with Godot, Python, Tauri, Vite and Vue. 
 
 
 <!---
