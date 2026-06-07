@@ -2,7 +2,7 @@
 
 **Electrician · EE Student · Creative Builder · Veteran**
 
-`📍 Huntsville / Trinity, AL` &nbsp;&nbsp; `🎓 BSE Electrical Engineering @ ASU` &nbsp;&nbsp; `🪖 Veteran (GI Bill)`
+`📍 Huntsville / Trinity, AL` &nbsp;&nbsp; `🎓 Pursuing BSE Electrical Engineering @ ASU` &nbsp;&nbsp; `🪖 Veteran`
 
 ---
 
