@@ -2,7 +2,7 @@
 
 **Electrician · EE Student · Creative Builder · Veteran**
 
-`📍 Huntsville / Trinity, AL` &nbsp;&nbsp; `🎓 BA Game Art & Development @ SNHU | Pursuing BSE Electrical Engineering @ ASU` &nbsp;&nbsp; `🪖 Veteran`
+`📍 Huntsville / Trinity, AL` &nbsp;&nbsp; `🎓 BA Game Art @ SNHU | 2027 BSE Electrical Engineering @ ASU` &nbsp;&nbsp; `🪖 Veteran`
 
 ---
 
